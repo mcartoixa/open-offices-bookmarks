@@ -1,6 +1,8 @@
 # Open Offices bookmarks
 A manually curated list of studies and articles related to the advantages and drawbacks of open-plan offices.
 
+[![Dilbert](https://assets.amuniversal.com/97194cc0cbed0130f1a6001dd8b71c47)](https://dilbert.com/strip/2013-08-03)
+
 ## Content
 * [Articles and opinions](#articles-and-opinions)
   * [Open-plan offices considered bad](#open-plan-offices-considered-bad)
@@ -28,15 +30,23 @@ A manually curated list of studies and articles related to the advantages and dr
 * 2016/10/05 [Just shut up and let your devs concentrate, advises Stack Overflow CEO Joel Spolsky](https://www.geekwire.com/2016/just-shut-let-devs-concentrate-programming-expert-advises/) by [Dan Richman](https://twitter.com/danielarichman) via [GeekWire](https://www.geekwire.com/).
 * 2016/07/03 [The Backlash Against Collaboration](https://www.huffpost.com/entry/the-backlash-against-coll_b_9392040) by [Amanda Schneider](https://www.twitter.com/CCGfounder) via [HuffPost](https://www.huffpost.com/).
 * 2016/01/23 [The collaboration curse](https://www.economist.com/business/2016/01/23/the-collaboration-curse) by Schumpeter via [The Economist](https://www.economist.com/).
+* 2014/12/30 [](https://www.washingtonpost.com/posteverything/wp/2014/12/30/google-got-it-wrong-the-open-office-trend-is-destroying-the-workplace/) via [The Washington Post](https://www.washingtonpost.com/).
 * 2014/11/21 [Open-plan office designs unpopular with workers and can damage productivity](https://www.dezeen.com/2014/11/21/open-plan-office-designs-unpopular-with-workers-damage-productivity/) by [Anna Winston](https://twitter.com/AnnaWinston) via [deezen](https://www.dezeen.com/).
+* 2014/03/13 [Too Distracted to Work: The Dark Side of Open Offices](https://www.bloomberg.com/news/articles/2014-03-13/too-distracted-to-work-the-dark-side-of-open-offices) by [Karen E. Klein](https://twitter.com/kareneklein) via [Bloomberg](https://www.bloomberg.com/).
 * 2014/01/17 [The Open-Office Trap](https://www.newyorker.com/business/currency/the-open-office-trap) via [The New Yorker](https://www.newyorker.com/).
+* 2013/12/02 [The 10 Worst Things About Working In An Open-Office–In Your Words](https://www.fastcompany.com/3022456/the-10-worst-things-about-working-in-an-open-office-in-your-words) via [FastCompany](https://www.fastcompany.com/).
+* 2011/08/11 [Open Office Layout is Bad for Brain!](https://www.infoq.com/news/2011/08/open-office-layout/) by [Vikas Hazrati](https://twitter.com/vhazrati) via [InfoQ](https://www.infoq.com/).
 * 2006/09/07 [A Field Guide to Developers](https://www.joelonsoftware.com/2006/09/07/a-field-guide-to-developers-2/) by [Joel Spolsky](https://twitter.com/spolsky) via [Joel on Software](https://www.joelonsoftware.com/).
 * 2006/07/30 [Private Offices Redux](https://www.joelonsoftware.com/2006/07/30/private-offices-redux/) by [Joel Spolsky](https://twitter.com/spolsky) via [Joel on Software](https://www.joelonsoftware.com/).
+
 ### It depends
 * 2019/11/05 [Pour ou contre les open spaces](https://www.youtube.com/watch?v=IaRmZUs4TOU):tv: by [Olivier Sibony](https://twitter.com/SibOliv) via [Xerfi Canal](https://www.youtube.com/channel/UClLFPD1pu0nVTR_Y8NCpXJQ).
 * 2019/09/10 [How to Design the Ideal Office (and Why Open Layouts Aren't Always Bad)](https://www.inc.com/graham-winfrey/workplace-experts-open-plan-office-brian-chen-room-harvard-study.html) by [Graham Winfrey](https://twitter.com/GrahamWinfrey) via [Inc.](https://www.inc.com/).
 * 2019/07/25 [Open Office Layouts Can Work If You Understand This 1 Crucial Thing About Your Company](https://www.inc.com/michael-schneider/open-office-layouts-can-work-if-you-understand-this-1-crucial-thing-about-your-company.html) by [Michael Schneider](https://twitter.com/MSchneiderTwts) via [Inc.](https://www.inc.com/).
 * 2019/05/02 [The science of why you hate your open office](https://www.fastcompany.com/90342214/the-science-of-why-you-hate-your-open-office) by [Katharine Schwab](https://twitter.com/kschwabable) via [FastCompany](https://www.fastcompany.com/).
+* 2015/02/23 [As Office Space Shrinks, So Does Privacy for Workers](https://www.nytimes.com/2015/02/23/nyregion/as-office-space-shrinks-so-does-privacy-for-workers.html) by James Barron via [The New York Times](https://www.nytimes.com/).
+* 2015/01/14 [Are Cubicles Preferable to the Open Office Layout?](https://www.nytimes.com/roomfordebate/2015/01/14/are-cubicles-preferable-to-the-open-office-layout) via [The New York Times](https://www.nytimes.com/).
+
 ### Open-plan offices considered good
 * 2018/11/30 [Can You Lead in an Open Office?](https://www.inc.com/jeff-pochepan/can-you-lead-in-an-open-office.html) by [Jeff Pochepan](https://twitter.com/StrongProjInc) via [Inc.](https://www.inc.com/).
 
