@@ -12,6 +12,7 @@ A manually curated list of studies and articles related to the advantages and dr
 
 ## Articles and opinions
 ### Open-plan offices considered bad
+* 2023/12/15 [Les conditions de travail sont « globalement moins bonnes » en open space](https://www.lemonde.fr/emploi/article/2023/12/15/les-conditions-de-travail-sont-globalement-moins-bonnes-en-open-space_6205949_1698637.html) by Frédéric Brillet via  [Le Monde](https://www.lemonde.fr/)
 * 2021/07/05 [Open-plan office noise increases stress and worsens mood: we’ve measured the effects](https://theconversation.com/open-plan-office-noise-increases-stress-and-worsens-mood-weve-measured-the-effects-162843) by [Libby Sander](https://twitter.com/libbysander) via [The Conversation](https://twitter.com/ConversationEDU)
 * 2020/04/10 [The Open-Plan Office Is Dead](https://www.inc.com/geoffrey-james/the-open-plan-office-is-dead.html) by [Geoffrey James](https://twitter.com/Sales_Source) via [Inc.](https://www.inc.com/).
 * 2020/02/14 [Open Plan Offices Make People Lonelier](https://www.inc.com/geoffrey-james/open-plan-offices-make-people-lonelier.html) by [Geoffrey James](https://twitter.com/Sales_Source) via [Inc.](https://www.inc.com/).
